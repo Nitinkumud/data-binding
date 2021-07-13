@@ -1,0 +1,16 @@
+.container {
+    margin: 20px;
+    padding: 50px;
+}
+
+.property-binding {
+    margin-top: 25px;
+}
+
+.event-binding {
+    margin-top: 25px;
+}
+
+.p {
+    font-weight: 200;
+ }
